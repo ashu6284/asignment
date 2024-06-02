@@ -1,0 +1,39 @@
+.main-card2 {
+  max-width: 545px;
+  display: flex;
+  height: 240px;
+}
+.card-heading2 {
+  color: white;
+  font-weight: bold;
+}
+
+.card-paragraph2 {
+  color: white;
+}
+.btn-card2 {
+  background-color: inherit;
+  width: 90px;
+  height: 30px;
+  border-radius: 3px;
+}
+
+.card2 {
+  height: 80%;
+  width: 100%;
+  margin-top: 20px;
+  margin-right: 15px;
+  border: 1px solid black;
+}
+
+@media only screen and (max-width: 768px) {
+  .main-card2 {
+    width: 450px;
+    height: 220px;
+    margin-bottom: auto;
+  }
+  .card2 {
+    height: 70%;
+    margin-right: 10px;
+  }
+}

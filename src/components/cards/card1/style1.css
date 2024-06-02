@@ -1,0 +1,39 @@
+.main-card {
+  max-width: 545px;
+  display: flex;
+  /* background-color: #7eedde; */
+  height: 240px;
+}
+.card-heading {
+  color: #49877f;
+  font-weight: bold;
+}
+
+.card-paragraph {
+  color: #49877f;
+}
+.btn-card {
+  background-color: inherit;
+  width: 90px;
+  height: 30px;
+  border-radius: 3px;
+}
+
+.card {
+  height: 80%;
+  width: 100%;
+  margin-top: 20px;
+  margin-right: 15px;
+  border: 1px solid black;
+}
+@media only screen and (max-width: 768px) {
+  .main-card {
+    width: 450px;
+    height: 220px;
+    margin-bottom: auto;
+  }
+  .card {
+    height: 70%;
+    margin-right: 20px;
+  }
+}
