@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/asignment/static/css/main.cefc590a.css",
+    "main.js": "/asignment/static/js/main.cc4e2e5b.js",
+    "static/media/card1.png": "/asignment/static/media/card1.517290d37fb4745bcbe2.png",
+    "static/media/card2.png": "/asignment/static/media/card2.d66cfe3edd8be644e201.png",
+    "static/media/school-logo.jpg": "/asignment/static/media/school-logo.ff4e7ec8108cdf595fa4.jpg",
+    "static/media/t-text.png": "/asignment/static/media/t-text.ba0c806c308edece3fcc.png",
+    "static/media/upload.png": "/asignment/static/media/upload.8648dad6bf5be2d9f79f.png",
+    "index.html": "/asignment/index.html",
+    "main.cefc590a.css.map": "/asignment/static/css/main.cefc590a.css.map",
+    "main.cc4e2e5b.js.map": "/asignment/static/js/main.cc4e2e5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefc590a.css",
+    "static/js/main.cc4e2e5b.js"
+  ]
+}
